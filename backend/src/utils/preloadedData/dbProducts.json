@@ -1,0 +1,604 @@
+{
+  "products": [
+    {
+      "brand": "Comfort Plus",
+      "name": "Plush Velvet Sofa",
+      "description": "Luxurious plush velvet sofa with deep seating and modern design.",
+      "price": 799,
+      "stock": 15,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715796458/livingabodecloudinary/Producto1_nh2fca.webp",
+      "categories": [1]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Leather Recliner Sofa",
+      "description": "Contemporary leather recliner sofa with adjustable headrests and USB ports.",
+      "price": 1299,
+      "stock": 10,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715796746/livingabodecloudinary/Producto2_xvi4zh.avif",
+      "categories": [1]
+    },
+    {
+      "brand": "Comfy Living",
+      "name": "Linen Armchair",
+      "description": "Cozy linen armchair with deep cushioning and solid wood frame.",
+      "price": 499,
+      "stock": 20,
+      "rating": 4.6,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715796839/livingabodecloudinary/Producto3_o2st84.avif",
+      "categories": [1]
+    },
+    {
+      "brand": "Comfort Plus",
+      "name": "Velvet Wingback Chair",
+      "description": "Elegant velvet wingback chair with tufted back and nailhead trim.",
+      "price": 399,
+      "stock": 18,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715796913/livingabodecloudinary/Producto4_nf9lcn.webp",
+      "categories": [1]
+    },
+    {
+      "brand": "Modern Living",
+      "name": "Sectional Sofa",
+      "description": "Sleek sectional sofa with reversible chaise and adjustable headrests.",
+      "price": 1499,
+      "stock": 12,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715796994/livingabodecloudinary/Producto5_z11mlx.jpg",
+      "categories": [1]
+    },
+    {
+      "brand": "Comfy Living",
+      "name": "Leather Club Chair",
+      "description": "Timeless leather club chair with rolled arms and brass nailhead trim.",
+      "price": 699,
+      "stock": 8,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715797104/livingabodecloudinary/Producto6_t3u9aj.jpg",
+      "categories": [1]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "Extendable Dining Table",
+      "description": "Sleek extendable dining table with solid wood construction.",
+      "price": 899,
+      "stock": 10,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715797280/livingabodecloudinary/Producto7_dxbwvt.webp",
+      "categories": [2]
+    },
+    {
+      "brand": "Classic Comfort",
+      "name": "Round Coffee Table",
+      "description": "Timeless round coffee table with marble top and brass legs.",
+      "price": 549,
+      "stock": 15,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715797347/livingabodecloudinary/Producto8_eq2plu.jpg",
+      "categories": [2]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Rectangular Dining Table",
+      "description": "Modern rectangular dining table with metal legs and glass top.",
+      "price": 699,
+      "stock": 12,
+      "rating": 4.6,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715797455/livingabodecloudinary/Producto9_jevjam.webp",
+      "categories": [2]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "Velvet Dining Chair",
+      "description": "Plush velvet dining chair with solid wood legs and ergonomic design.",
+      "price": 199,
+      "stock": 20,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715797657/livingabodecloudinary/Producto10_mmwyvg.avif",
+      "categories": [2]
+    },
+    {
+      "brand": "Classic Comfort",
+      "name": "Upholstered Accent Chair",
+      "description": "Stylish upholstered accent chair with button-tufted back and nailhead trim.",
+      "price": 299,
+      "stock": 18,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715797851/livingabodecloudinary/Producto11_ddqp56.jpg",
+      "categories": [2]
+    },
+    {
+      "brand": "Comfy Living",
+      "name": "Wooden Dining Chair",
+      "description": "Classic wooden dining chair with ladder back and cushioned seat.",
+      "price": 149,
+      "stock": 25,
+      "rating": 4.6,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715805711/livingabodecloudinary/Producto12_m9snvp.webp",
+      "categories": [2]
+    },
+    {
+      "brand": "Modern Living",
+      "name": "Platform Bed",
+      "description": "Minimalist platform bed with upholstered headboard and wooden frame.",
+      "price": 699,
+      "stock": 10,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715806505/livingabodecloudinary/Producto13_gnqcgc.avif",
+      "categories": [3]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Queen Size Bed",
+      "description": "Contemporary queen size bed with sleek metal frame and faux leather upholstery.",
+      "price": 899,
+      "stock": 8,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715806709/livingabodecloudinary/Product14_clery1.jpg",
+      "categories": [3]
+    },
+    {
+      "brand": "Comfort Plus",
+      "name": "King Size Bed",
+      "description": "Luxurious king size bed with tufted headboard and solid wood construction.",
+      "price": 1299,
+      "stock": 6,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715806809/livingabodecloudinary/Producto15_ylhpcc.jpg",
+      "categories": [3]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "Memory Foam Mattress",
+      "description": "Plush memory foam mattress with cooling gel technology and medium firmness.",
+      "price": 799,
+      "stock": 12,
+      "rating": 4.6,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715807048/livingabodecloudinary/Producto16_eovdfp.webp",
+      "categories": [3]
+    },
+    {
+      "brand": "Comfy Living",
+      "name": "Pocket Spring Mattress",
+      "description": "Premium pocket spring mattress with pillow top and orthopedic support.",
+      "price": 999,
+      "stock": 10,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715807308/livingabodecloudinary/Producto17_ogbm5x.webp",
+      "categories": [3]
+    },
+    {
+      "brand": "Classic Comfort",
+      "name": "Latex Mattress",
+      "description": "Natural latex mattress with organic cotton cover and hypoallergenic properties.",
+      "price": 1199,
+      "stock": 8,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715807512/livingabodecloudinary/Producto18_zkv24t.jpg",
+      "categories": [3]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Sliding Door Wardrobe",
+      "description": "Modern sliding door wardrobe with spacious interior and mirrored doors.",
+      "price": 999,
+      "stock": 10,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715807657/livingabodecloudinary/Producto19_bklbv8.jpg",
+      "categories": [4]
+    },
+    {
+      "brand": "Classic Comfort",
+      "name": "Walk-In Closet",
+      "description": "Luxurious walk-in closet system with customizable shelving and hanging space.",
+      "price": 2499,
+      "stock": 5,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715807787/livingabodecloudinary/Producto20_lwool0.webp",
+      "categories": [4]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "Wooden Wardrobe",
+      "description": "Sleek wooden wardrobe with drawers, shelves, and hanging rod.",
+      "price": 799,
+      "stock": 15,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715808336/livingabodecloudinary/Producto21_ewuoaf.avif",
+      "categories": [4]
+    },
+    {
+      "brand": "Comfort Plus",
+      "name": "Storage Ottoman",
+      "description": "Versatile storage ottoman with removable lid and ample storage space.",
+      "price": 199,
+      "stock": 20,
+      "rating": 4.6,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715808678/livingabodecloudinary/Producto22_qitrct.webp",
+      "categories": [4]
+    },
+    {
+      "brand": "Comfy Living",
+      "name": "Cube Storage Organizer",
+      "description": "Compact cube storage organizer with modular design for customizable storage solutions.",
+      "price": 149,
+      "stock": 25,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715808865/livingabodecloudinary/Producto23_cspbtx.jpg",
+      "categories": [4]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Wall-Mounted Shelf",
+      "description": "Contemporary wall-mounted shelf with floating design and multiple compartments.",
+      "price": 79,
+      "stock": 30,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715809041/livingabodecloudinary/Producto24_ahvpbb.jpg",
+      "categories": [4]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "Floating Nightstand",
+      "description": "Sleek floating nightstand with drawer and open shelf for storage.",
+      "price": 129,
+      "stock": 20,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715809207/livingabodecloudinary/Producto25_enczmi.jpg",
+      "categories": [5]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Two-Drawer Nightstand",
+      "description": "Modern two-drawer nightstand with smooth gliding drawers and minimalist design.",
+      "price": 149,
+      "stock": 15,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715809382/livingabodecloudinary/Producto26_bythlo.webp",
+      "categories": [5]
+    },
+    {
+      "brand": "Classic Comfort",
+      "name": "Bedside Table",
+      "description": "Classic bedside table with single drawer and lower shelf for storage.",
+      "price": 99,
+      "stock": 25,
+      "rating": 4.6,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715895728/livingabodecloudinary/Producto27_yttope.webp",
+      "categories": [5]
+    },
+    {
+      "brand": "Comfy Living",
+      "name": "Rustic Nightstand",
+      "description": "Charming rustic nightstand with distressed finish and antique hardware.",
+      "price": 179,
+      "stock": 12,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715895888/livingabodecloudinary/Producto28_xlpxq3.webp",
+      "categories": [5]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "Mid-Century Nightstand",
+      "description": "Elegant mid-century nightstand with tapered legs and smooth drawer glides.",
+      "price": 199,
+      "stock": 18,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715896116/livingabodecloudinary/Producto29_flwnn6.avif",
+      "categories": [5]
+    },
+    {
+      "brand": "Comfort Plus",
+      "name": "Floating Drawer Nightstand",
+      "description": "Contemporary floating drawer nightstand with hidden storage compartment.",
+      "price": 169,
+      "stock": 22,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715899102/livingabodecloudinary/Producto30_djvhfn.webp",
+      "categories": [5]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Floating Wall Shelf",
+      "description": "Minimalist floating wall shelf with hidden mounting hardware for a clean look.",
+      "price": 49,
+      "stock": 30,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715899853/livingabodecloudinary/Producto31_ir55zp.jpg",
+      "categories": [6]
+    },
+    {
+      "brand": "Classic Comfort",
+      "name": "Corner Shelf",
+      "description": "Space-saving corner shelf with multiple tiers for displaying decor or books.",
+      "price": 79,
+      "stock": 20,
+      "rating": 4.6,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715899995/livingabodecloudinary/Producto32_ecpfbr.webp",
+      "categories": [6]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "Industrial Pipe Shelf",
+      "description": "Rustic industrial pipe shelf with reclaimed wood shelves for a vintage look.",
+      "price": 99,
+      "stock": 25,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715900133/livingabodecloudinary/Producto33_vw7vle.jpg",
+      "categories": [6]
+    },
+    {
+      "brand": "Comfy Living",
+      "name": "Tall Bookcase",
+      "description": "Tall bookcase with adjustable shelves and solid wood construction.",
+      "price": 199,
+      "stock": 15,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715900288/livingabodecloudinary/Producto34_ips9ca.jpg",
+      "categories": [6]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Modular Bookshelf",
+      "description": "Versatile modular bookshelf system with customizable configurations.",
+      "price": 249,
+      "stock": 18,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715900617/livingabodecloudinary/Producto35_d8yptp.webp",
+      "categories": [6]
+    },
+    {
+      "brand": "Comfort Plus",
+      "name": "Ladder Bookcase",
+      "description": "Stylish ladder-style bookcase with open shelves and leaning design.",
+      "price": 149,
+      "stock": 22,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715900781/livingabodecloudinary/Producto36_iywlxf.webp",
+      "categories": [6]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "L-Shaped Desk",
+      "description": "Sleek L-shaped desk with ample workspace and integrated storage shelves.",
+      "price": 349,
+      "stock": 20,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715951329/livingabodecloudinary/Producto37_j08taa.jpg",
+      "categories": [7]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Adjustable Standing Desk",
+      "description": "Ergonomic adjustable standing desk with motorized height adjustment.",
+      "price": 499,
+      "stock": 15,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715951428/livingabodecloudinary/Producto38_cylpzs.jpg",
+      "categories": [7]
+    },
+    {
+      "brand": "Classic Comfort",
+      "name": "Writing Desk",
+      "description": "Classic writing desk with solid wood construction and spacious tabletop.",
+      "price": 249,
+      "stock": 25,
+      "rating": 4.6,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715951669/livingabodecloudinary/Producto39_le6kza.webp",
+      "categories": [7]
+    },
+    {
+      "brand": "Comfy Living",
+      "name": "Craft Table",
+      "description": "Versatile craft table with adjustable height and storage drawers.",
+      "price": 199,
+      "stock": 18,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715951984/livingabodecloudinary/Producto40_mptxs0.jpg",
+      "categories": [7]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "Folding Workbench",
+      "description": "Durable folding workbench with sturdy steel frame and multipurpose design.",
+      "price": 149,
+      "stock": 22,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715955392/livingabodecloudinary/Producto41_rbtkep.jpg",
+      "categories": [7]
+    },
+    {
+      "brand": "Comfort Plus",
+      "name": "Drafting Table",
+      "description": "Professional drafting table with adjustable angle and built-in storage trays.",
+      "price": 299,
+      "stock": 20,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715955496/livingabodecloudinary/Producto42_gpboxs.jpg",
+      "categories": [7]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Decorative Throw Pillow",
+      "description": "Soft decorative throw pillow with textured fabric and geometric pattern.",
+      "price": 29,
+      "stock": 30,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715955741/livingabodecloudinary/Producto43_g5dnaz.avif",
+      "categories": [8]
+    },
+    {
+      "brand": "Classic Comfort",
+      "name": "Table Lamp",
+      "description": "Elegant table lamp with ceramic base and fabric shade for soft illumination.",
+      "price": 79,
+      "stock": 20,
+      "rating": 4.6,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715956149/livingabodecloudinary/Producto44_t55bny.jpg",
+      "categories": [8]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "Wall Art",
+      "description": "Contemporary wall art with abstract design and vibrant colors.",
+      "price": 129,
+      "stock": 25,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715956434/livingabodecloudinary/Producto45_ihb9hy.webp",
+      "categories": [8]
+    },
+    {
+      "brand": "Comfy Living",
+      "name": "Decorative Vase Set",
+      "description": "Set of three decorative ceramic vases with textured finish.",
+      "price": 59,
+      "stock": 18,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715957189/livingabodecloudinary/Producto46_fbp3sf.jpg",
+      "categories": [8]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Candle Holder Set",
+      "description": "Set of three glass candle holders with metallic accents for a touch of glamour.",
+      "price": 49,
+      "stock": 22,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715957285/livingabodecloudinary/Producto47_thnuzd.jpg",
+      "categories": [8]
+    },
+    {
+      "brand": "Comfort Plus",
+      "name": "Decorative Mirrors",
+      "description": "Set of three decorative mirrors with gold-finished frames for added elegance.",
+      "price": 99,
+      "stock": 20,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715957586/livingabodecloudinary/Producto48_m3cjge.avif",
+      "categories": [8]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "Pendant Light",
+      "description": "Sleek pendant light with adjustable height and brushed nickel finish.",
+      "price": 129,
+      "stock": 30,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1715957717/livingabodecloudinary/Producto49_bvlfft.avif",
+      "categories": [9]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Floor Lamp",
+      "description": "Contemporary floor lamp with arched design and marble base for stability.",
+      "price": 179,
+      "stock": 20,
+      "rating": 4.6,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1716222410/livingabodecloudinary/Producto50_n0tzkr.jpg",
+      "categories": [9]
+    },
+    {
+      "brand": "Classic Comfort",
+      "name": "Table Lamp",
+      "description": "Traditional table lamp with brass base and fabric shade for soft lighting.",
+      "price": 89,
+      "stock": 25,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1716222644/livingabodecloudinary/Producto51_d3rkol.jpg",
+      "categories": [9]
+    },
+    {
+      "brand": "Comfy Living",
+      "name": "Wall Sconce",
+      "description": "Rustic wall sconce with metal frame and clear glass shade.",
+      "price": 59,
+      "stock": 18,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1716222912/livingabodecloudinary/Producto52_av8bzp.jpg",
+      "categories": [9]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Chandelier",
+      "description": "Elegant chandelier with crystal accents and adjustable height for versatility.",
+      "price": 399,
+      "stock": 22,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1716223015/livingabodecloudinary/Producto53_io8mf4.webp",
+      "categories": [9]
+    },
+    {
+      "brand": "Comfort Plus",
+      "name": "Desk Lamp",
+      "description": "Modern desk lamp with adjustable arm and energy-efficient LED bulb.",
+      "price": 49,
+      "stock": 20,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1716223610/livingabodecloudinary/Producto54_ydzmi7.jpg",
+      "categories": [9]
+    },
+    {
+      "brand": "Modern Haven",
+      "name": "Outdoor Dining Table",
+      "description": "Sleek outdoor dining table with tempered glass top and aluminum frame.",
+      "price": 499,
+      "stock": 30,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1716223930/livingabodecloudinary/Producto55_pamzj7.jpg",
+      "categories": [10]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Adirondack Chair",
+      "description": "Classic Adirondack chair with ergonomic design and weather-resistant finish.",
+      "price": 199,
+      "stock": 20,
+      "rating": 4.6,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1716224040/livingabodecloudinary/Producto56_ccg64c.webp",
+      "categories": [10]
+    },
+    {
+      "brand": "Classic Comfort",
+      "name": "Outdoor Bench",
+      "description": "Durable outdoor bench with slatted seat and sturdy acacia wood construction.",
+      "price": 249,
+      "stock": 25,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1716224196/livingabodecloudinary/Producto57_c2ytfn.jpg",
+      "categories": [10]
+    },
+    {
+      "brand": "Comfy Living",
+      "name": "Outdoor Lounge Set",
+      "description": "Comfortable outdoor lounge set with sofa, ottoman, and coffee table.",
+      "price": 899,
+      "stock": 18,
+      "rating": 4.9,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1716224331/livingabodecloudinary/Producto58_r3hxhk.jpg",
+      "categories": [10]
+    },
+    {
+      "brand": "Urban Retreat",
+      "name": "Hammock with Stand",
+      "description": "Relaxing hammock with sturdy steel stand and polyester fabric for durability.",
+      "price": 299,
+      "stock": 22,
+      "rating": 4.7,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1716224492/livingabodecloudinary/Producto59_qya37u.webp",
+      "categories": [10]
+    },
+    {
+      "brand": "Comfort Plus",
+      "name": "Outdoor Bar Stools",
+      "description": "Set of two outdoor bar stools with powder-coated steel frame and woven seat.",
+      "price": 149,
+      "stock": 20,
+      "rating": 4.8,
+      "img": "https://res.cloudinary.com/dzzkatxek/image/upload/v1716224724/livingabodecloudinary/Producto60_xin98c.jpg",
+      "categories": [10]
+    }
+  ]
+}
